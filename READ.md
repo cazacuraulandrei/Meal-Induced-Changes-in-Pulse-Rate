@@ -10,8 +10,6 @@ The dataset contains anonymous pulse measurements from 175 participants collecte
 
 Rows with missing data were removed prior to analysis, resulting in 170 participants included in the final analysis.
 
-The original dataset is not included in this repository because it was derived from university practical data and has been excluded for privacy and data-protection considerations.
-
 ## Methods
 
 * Data analysis performed in Python
